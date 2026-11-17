@@ -1,0 +1,8 @@
+{
+  "name": "checkpoint-one",
+  "version": "1.0.0",
+  "description": "Checkpoint One — Roseway sports bar with Louisiana fried seafood, 7325 NE Sandy Blvd, Portland OR (static site + node form relay)",
+  "scripts": {
+    "start": "node server.js"
+  }
+}
