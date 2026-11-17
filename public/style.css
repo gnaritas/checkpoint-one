@@ -69,6 +69,9 @@ header.site nav a:hover,header.site nav a:focus{opacity:1;color:var(--gold)}
 .sec.paper h2{color:var(--ink)}
 .sec.dark{background:var(--asphalt);color:var(--cream)}
 .band{background:var(--asphalt);padding:62px 0 70px;border-bottom:1px solid var(--line-l)}
+.bandcols{display:grid;grid-template-columns:1.2fr .8fr;gap:44px;align-items:center}
+.bandart svg{width:100%;max-width:250px;height:auto;display:block;margin-left:auto}
+@media (max-width:900px){.bandcols{grid-template-columns:1fr;gap:28px}.bandart{display:none}}
 .crumbs{font-family:var(--display);text-transform:uppercase;letter-spacing:.1em;font-size:13px;color:var(--soft-d);margin-bottom:18px}
 .crumbs a{color:var(--gold);text-decoration:none}
 /* cards */
