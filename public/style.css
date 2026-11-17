@@ -4,8 +4,8 @@
 :root{
   --asphalt:#15181E; --asphalt-2:#20242D; --ink:#141619;
   --cream:#F2ECDF; --paper:#F4EEE1; --card:#FBF6EA;
-  --soft:#6F6656; --soft-d:#B7AE9E;
-  --gold:#E2A733; --gold-dk:#A87615; --red:#B3382C;
+  --soft:#625949; --soft-d:#C2B9AA;
+  --gold:#E2A733; --gold-dk:#8A5F0F; --red:#B3382C;
   --line:rgba(20,22,25,.18); --line-l:rgba(242,236,223,.17);
   --display:'Impact','Haettenschweiler','Arial Narrow Bold',sans-serif;
   --body:Georgia,'Iowan Old Style','Times New Roman',serif;
